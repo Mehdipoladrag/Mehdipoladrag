@@ -30,7 +30,7 @@
 
 ----
 
-<a float="left">
+<a href="https://github.com/Mehdipoladrag">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehdipoladrag&show_icons=true&theme=Gradient" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdipoladrag&hide_progress=true" width="45%" />
 </a>
