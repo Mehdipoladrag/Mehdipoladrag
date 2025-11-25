@@ -37,6 +37,8 @@ My backend background gives me a strong sense of structure, scalability, and cle
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 
 #### 🛠 Dev Tools
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,12 +67,16 @@ My backend background gives me a strong sense of structure, scalability, and cle
     <img src="https://img.shields.io/badge/LinkedIn-Mehdi%20Poladrag-blue?style=flat&logo=linkedin" />
   </a>
   &nbsp;
-  <a href="https://t.me/devmehdipoladrag">
+  <a href="https://t.me/stersi">
     <img src="https://img.shields.io/badge/Telegram-@mehdipoladrag-26A5E4?style=flat&logo=telegram" />
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/mehdipoladrag">
     <img src="https://img.shields.io/badge/Kaggle-Mehdi%20Poladrag-20BEFF?style=flat&logo=kaggle" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/DevMehdip">
+    <img src="https://img.shields.io/badge/HuggingFace-DevMehdip-FFD21E?style=flat&logo=huggingface&logoColor=black" />
   </a>
 </p>
 
